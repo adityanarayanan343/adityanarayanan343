@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Narayanan S</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on [Instagram Clone](https://github.com/adityanarayanan343/Insta-clone.git)
+- 🔭 I’m currently working on [CrossTL](https://github.com/adityanarayanan343/crosstl)
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently learning **ReactJS, NodeJS, TypeScript**
 
 - 💬 Ask me about **HTML, CSS**
 
