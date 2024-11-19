@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Narayanan S</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on [CrossTL](https://github.com/adityanarayanan343/crosstl)
+- 🔭 I’m currently working on [MessagingApp](https://github.com/adityanarayanan343/MessagingApp.git)
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, TypeScript**
 
